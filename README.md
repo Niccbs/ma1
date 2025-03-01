@@ -5,9 +5,11 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #Nicolaj Sjeltoft | 152331 |
+| #Daniel Wendt Schelske | 151798 |
+| #Nathanael Palacios Balbuena | 152951 |
+
+The group has in Gitignore entered the environment.yml as we understand this to be the envi file thats not supposed to be included in the upload
 
 ***
 

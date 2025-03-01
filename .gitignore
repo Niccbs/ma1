@@ -9,6 +9,8 @@ material/data/*
 mnist_model.pth
 .ruff_cache/
 
+environment.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
